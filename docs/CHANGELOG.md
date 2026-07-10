@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [Unreleased]
+
+### Added
+- **ADR-003:** Aceptada la vista derivada de bloques fijos para el dominio append-only; preserva bloques completos previos sin extender la garantía a documentos mutables.
+- **Conocimiento compartido:** Promovida la conclusión restringida append-only con trazabilidad hacia ADR-003 y sus controles experimentales.
+- **Fundación aprobada de FKT:** Incorporadas las investigaciones GPT de Fases 1 a 3 sobre octetos, niveles finitos y gramática de bloques acotados.
+- **ADR-001:** Registrada la decisión aceptada de usar octetos como capa fundacional candidata de representación y una gramática de bloques acotados como evidencia sintáctica.
+- **Conocimiento compartido:** Promovida la síntesis aprobada, con trazabilidad hacia la investigación original y ADR-001.
+- **Fase 5 experimental:** Aprobado `exp-001-tokenization-locality` mediante ADR-002 para contrastar controles de tokenización sin crear una implementación de producción.
+
 ## [0.4.0] - 2026-06-29
 
 ### Added

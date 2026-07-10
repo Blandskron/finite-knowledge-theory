@@ -22,4 +22,6 @@ justification: "Summary of evidence validating the conclusion..."
 
 ## 📂 Promoted Topics (Current Status)
 
-*   *No approved knowledge has been promoted yet. Awaiting validated research inputs.*
+* [Octet foundation and bounded-block grammar](octet-foundation-and-bounded-block-grammar.md) — approved 2026-07-09 via [ADR-001](../../adr/ADR-001-octet-foundation-and-bounded-block-grammar.md).
+* [Phase 4 experimental tokenization baseline](phase-4-experimental-tokenization-baseline.md) — approved 2026-07-09 via [ADR-002](../../adr/ADR-002-phase-5-tokenization-locality-experiment.md).
+* [Append-only derived view](append-only-derived-view.md) — approved 2026-07-09 via [ADR-003](../../adr/ADR-003-append-only-derived-view.md).
